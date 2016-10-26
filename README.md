@@ -4,6 +4,6 @@ The following repo contains the data as well as source code to reproduce the ana
 
 ## Files:
 
-*RFComparisonsData.csv    --- RF comparative studies meta data.
-*RFResearchMetaAnalysis.R --- Analytic code (in the R language).
+* RFComparisonsData.csv    --- RF comparative studies meta data.
+* RFResearchMetaAnalysis.R --- Analytic code (in the R language).
 
